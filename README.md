@@ -5,7 +5,7 @@ A little bit of code to aid teachers that use Aeries.
 ## Installation
 
 1. Install the "Custom JavaScript for Websites 2" Chrome extension from [here](http://bit.ly/2V0383H).
-- 1a. Visit [this website](https://bit.ly/2V083H).
+- Visit [this website](https://bit.ly/2V083H).
 - Click on the blue "Add to Chrome" button to the right of the page.
 - Click on "Add extension" when you see the prompt.
 - Wait a few seconds and wham bam shamalam -- you've installed it!
